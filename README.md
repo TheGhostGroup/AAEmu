@@ -1,4 +1,6 @@
-# [![AAEmu](https://boards.aaemu.pw/assets/files/2018-10-11/1539288486-150348-aaemu-blank-text.png)](https://boards.aaemu.pw/)
+[![Coverage Status](https://coveralls.io/repos/github/AAEmu/AAEmu/badge.svg?branch=develop)](https://coveralls.io/github/AAEmu/AAEmu?branch=develop)
+
+# AAEmu
 
 __Open source server software for ArcheAge written in .Net Core__
 
